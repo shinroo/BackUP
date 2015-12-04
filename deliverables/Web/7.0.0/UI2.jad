@@ -1,0 +1,16 @@
+MIDlet-Name: UI2
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: UI2.jar
+MIDlet-Jar-Size: 24039
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: UI2.cod
+RIM-COD-Size: 8732
+RIM-COD-Creation-Time: 1347027674
+RIM-COD-Module-Name: UI2
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: 8b 04 03 34 9b d5 ee 3e 96 77 2c 97 a8 f7 8b f6 54 af 7a 43
